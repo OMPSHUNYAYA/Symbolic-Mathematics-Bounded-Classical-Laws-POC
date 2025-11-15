@@ -1,5 +1,7 @@
 # **Shunyaya Symbolic Mathematics (SSM) — Bounded Classical Laws — Proof of Concept**
 
+![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue?style=flat&logo=creative-commons) ![GitHub Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematics-Bounded-Classical-Laws-POC?style=flat&logo=github) ![CI](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-Bounded-Classical-Laws-POC/actions/workflows/run_all_laws.yml/badge.svg)
+
 **Tiny Python examples that apply Shunyaya Symbolic Mathematics to popular classical laws, keeping `m` the same while adding a bounded posture lane `a in (-1,+1)` (calm / borderline / stressed).**
 
 ---

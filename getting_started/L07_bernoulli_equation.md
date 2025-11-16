@@ -245,7 +245,7 @@ You can attach bands in your shared runner, for example:
 
 ---
 
-5) What to expect
+## **5) What to expect**
 
 Numerically:
 • Classical: P2 only slightly lower than P1 (around 1.96–1.97 × 10^5 Pa).
@@ -271,7 +271,7 @@ If the pump were smoother and velocities even more stable (smaller v1_a, v2_a, P
 
 ---
 
-6) Why this helps in the real world
+## **6) Why this helps in the real world**
 
 • Fluid labs can distinguish between “a nice Bernoulli example” and “a numerically nice but noisy run,” using the alignment lane a as a compact, quantitative posture signal.
 
@@ -281,7 +281,7 @@ If the pump were smoother and velocities even more stable (smaller v1_a, v2_a, P
 
 ---
 
-7) License and scope
+## **7) License and scope**
 
 • License. CC BY-NC 4.0 (non-commercial, attribution required).
 
